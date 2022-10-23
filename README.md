@@ -1,1 +1,1 @@
-- [테스트 코드 패키지](https://github.com/preferKim/testcode-practice/tree/main/src/main/java/inflearnthejavatest)
+- [테스트 코드 패키지](https://github.com/preferKim/testcode-practice/blob/main/src/test/java/inflearnthejavatest)
